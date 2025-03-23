@@ -1,7 +1,7 @@
 export default function Home() {
   return (
-    <main>
-      <h1>Frame It</h1>
-    </main>
+    <div className="flex flex-col min-h-screen bg-rose-200">
+      Main content
+    </div>
   );
 }
